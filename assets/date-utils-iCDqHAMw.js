@@ -1,0 +1,1 @@
+function p(e){if(!e.trim())return 0;const a=e.match(/\d+/g)?.map(t=>Number(t))??[];if(a.length>=5){const[t,r,s,i,o,c=0]=a,n=new Date(t,Math.max(0,r-1),s,i,o,c).getTime();if(!Number.isNaN(n))return n}const m=new Date(e).getTime();return Number.isNaN(m)?0:m}export{p};

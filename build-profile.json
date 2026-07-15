@@ -1,0 +1,7 @@
+{
+  "mode": "secure",
+  "target": "web",
+  "secure": true,
+  "desktopRuntime": "tauri",
+  "generatedAt": "2026-07-15T06:05:10.845Z"
+}

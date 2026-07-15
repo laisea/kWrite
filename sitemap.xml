@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://k02.cn/</loc><priority>1.0</priority></url>
+  <url><loc>https://k02.cn/more/downloads</loc><priority>0.8</priority></url>
+  <url><loc>https://k02.cn/more/about</loc><priority>0.7</priority></url>
+  <url><loc>https://k02.cn/more/guide</loc><priority>0.7</priority></url>
+  <url><loc>https://k02.cn/more/changelog</loc><priority>0.5</priority></url>
+  <url><loc>https://k02.cn/more/privacy</loc><priority>0.3</priority></url>
+  <url><loc>https://k02.cn/more/terms</loc><priority>0.3</priority></url>
+</urlset>

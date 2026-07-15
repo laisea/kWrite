@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://k02.cn/sitemap.xml
